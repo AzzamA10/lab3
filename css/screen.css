@@ -208,6 +208,7 @@ body{
 }
 
 h1{
+  font-family: Arial, sans-serif;
   margin: auto;
   text-align: center;
   font-size: 2em;
@@ -216,6 +217,7 @@ h1{
 }
 
 p{
+  font-family: Arial, sans-serif;
   text-align: center;
   font-size: 1.25em;
   background-color: #A9A9A9;
@@ -229,6 +231,7 @@ p{
 }
 
 #input-email{
+  font-family: Arial, sans-serif;
   text-align: center;
   font-size: 1em;
   background-color: #E5E4E2;
@@ -236,6 +239,7 @@ p{
 }
 
 #input-age-verification{
+  font-family: Arial, sans-serif;
   text-align: center;
   font-size: 1em;
   background-color: #D3D3D3;
@@ -243,6 +247,7 @@ p{
 }
 
 #input-submit{
+  font-family: Arial, sans-serif;
   text-align: center;
   font-size: 1em;
   background-color: #36454F;
