@@ -213,9 +213,12 @@ h1{
   text-align: center;
   font-size: 2em;
   background-color: #B2BEB5;
-  padding: 1em;
+  padding: 1.5em;
   color: #E5E4E2;
   display: block;
+  margin: 0.5em;
+  position: relative;
+  resize: vertical;
 }
 
 p{
@@ -223,16 +226,18 @@ p{
   text-align: center;
   font-size: 1.25em;
   background-color: #A9A9A9;
-  padding: 0.75em;
+  padding: 1.25em;
   color: #7393B3;
-  margin: auto;
   display: block;
+  margin: 0.8em;
+  position: relative;
+  resize: vertical;
 }
 
 #content{
   background-color: #7393B3;
   border-radius: 1em;
-  padding: 3em;
+  padding: 1em;
 }
 
 #input-email{
@@ -240,9 +245,10 @@ p{
   text-align: center;
   font-size: 1em;
   background-color: #E5E4E2;
-  padding: 0.5em;
-  margin: auto;
+  padding: 1em;
   display: block;
+  margin: 0.9em;
+  position: relative;
 }
 
 #input-email label{
@@ -254,9 +260,10 @@ p{
   text-align: center;
   font-size: 1em;
   background-color: #D3D3D3;
-  padding: 0.5em;
-  margin: auto;
+  padding: 1em;
   display: block;
+  margin: 0.9em;
+  position: relative;
 }
 
 #input-age-verification label{
@@ -268,14 +275,16 @@ p{
   text-align: center;
   font-size: 1em;
   background-color: #36454F;
-  padding: 0.5em;
-  margin: auto;
+  padding: 1em;
+  margin: 0.9em;
+  position: relative; 
   display: block;
 }
 
 input[type=submit]:hover {
 	background-color: #B2BEB5;
 }
+
 
 /* ===== STATE STYLES ======= */
 
