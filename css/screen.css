@@ -203,9 +203,29 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+body{
+	
+}
+
 h1{
   margin: auto;
   text-align: center;
+}
+
+p{
+	
+}
+
+#input-email{
+	
+}
+
+#input-age-verification{
+	
+}
+
+#input-submit{
+	
 }
 
 /* ===== STATE STYLES ======= */
