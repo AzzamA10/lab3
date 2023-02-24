@@ -255,5 +255,9 @@ p{
   padding: 0.25em;
 }
 
+input[type=submit]:hover {
+	background-color: #B2BEB5;
+}
+
 /* ===== STATE STYLES ======= */
 
