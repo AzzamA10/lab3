@@ -210,22 +210,27 @@ body{
 h1{
   margin: auto;
   text-align: center;
+  font-size: 2em;
 }
 
 p{
   text-align: center;
+  font-size: 1em;
 }
 
 #input-email{
   text-align: center;
+  font-size: 1em;
 }
 
 #input-age-verification{
   text-align: center;
+  font-size: 1em;
 }
 
 #input-submit{
   text-align: center;
+  font-size: 1em;
 }
 
 /* ===== STATE STYLES ======= */
