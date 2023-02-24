@@ -212,12 +212,14 @@ h1{
   text-align: center;
   font-size: 2em;
   background-color: #B2BEB5;
+  padding: 0.75em;
 }
 
 p{
   text-align: center;
-  font-size: 1em;
+  font-size: 1.25em;
   background-color: #A9A9A9;
+  padding: 0.5em;
 }
 
 #content{
@@ -230,18 +232,21 @@ p{
   text-align: center;
   font-size: 1em;
   background-color: #E5E4E2;
+  padding: 0.25em;
 }
 
 #input-age-verification{
   text-align: center;
   font-size: 1em;
   background-color: #D3D3D3;
+  padding: 0.25em;
 }
 
 #input-submit{
   text-align: center;
   font-size: 1em;
   background-color: #36454F;
+  padding: 0.25em;
 }
 
 /* ===== STATE STYLES ======= */
