@@ -213,19 +213,19 @@ h1{
 }
 
 p{
-	
+  text-align: center;
 }
 
 #input-email{
-	
+  text-align: center;
 }
 
 #input-age-verification{
-	
+  text-align: center;
 }
 
 #input-submit{
-	
+  text-align: center;
 }
 
 /* ===== STATE STYLES ======= */
