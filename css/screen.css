@@ -218,6 +218,12 @@ p{
   font-size: 1em;
 }
 
+#content{
+  background-color: #7393B3;
+  border-radius: 1em;
+  padding: 2em;
+}
+
 #input-email{
   text-align: center;
   font-size: 1em;
